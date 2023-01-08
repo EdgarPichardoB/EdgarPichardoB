@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edgar Pichardo</h1>
 <h3 align="center">I am a systems engineer with a passion for learning 💻</h3>
 
-- 🌱 I’m currently learning **JQuery, Angular 8 y NodeJS**
+- 🌱 I’m currently learning **JQuery, Angular 8, NodeJS and more**
 
 - 📫 How to reach me **Edgar.PichardoB@outlook.com**
 
