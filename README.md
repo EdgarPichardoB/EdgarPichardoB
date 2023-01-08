@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Pichardo</h1>
-<h3 align="center">Ingeniero en sistemas apasionado por el aprendizaje 💻</h3>
+<h3 align="center">Systems engineer passionate about learning 💻</h3>
 
 - 🌱 I’m currently learning **JQuery, Angular 8 y NodeJS**
 
