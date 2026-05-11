@@ -40,8 +40,15 @@ contact: Edgar.PichardoB@outlook.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarPichardoB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarPichardoB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdgarPichardoB&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdgarPichardoB&theme=tokyonight" height="180em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdgarPichardoB&theme=tokyonight" height="180em"/>
 
 </div>
 
