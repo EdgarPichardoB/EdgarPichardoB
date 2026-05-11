@@ -1,13 +1,78 @@
-<h1 align="center">Hi 👋, I'm Edgar Pichardo</h1>
-<h3 align="center">Systems engineer passionate about learning 💻</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **JQuery, Angular 8 y NodeJS**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Edgar%20Pichardo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
 
-- 📫 How to reach me **Edgar.PichardoB@outlook.com**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Hi+there!+I'm+Edgar+%F0%9F%91%8B;Systems+Engineer+%F0%9F%92%BB;Passionate+about+learning+new+things;Building+cool+stuff+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=EdgarPichardoB&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+```yaml
+name: Edgar Pichardo
+title: Systems Engineer
+learning: [jQuery, Angular 8, NodeJS]
+interests: [Web Development, Automation, AI]
+contact: Edgar.PichardoB@outlook.com
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,angular,git&theme=dark&perline=8" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarPichardoB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarPichardoB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EdgarPichardoB&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EdgarPichardoB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Edgar.PichardoB%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Edgar.PichardoB@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EdgarPichardoB)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdgarPichardoB)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
