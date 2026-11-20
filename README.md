@@ -17,7 +17,6 @@ It's Node, Express and SQLite, with Puppeteer for the PDFs. It runs on a Proxmox
 
 - A quoting system for a medical supply distributor, written in Python. It's on its second version.
 - My homelab: Proxmox with one container per app, Tailscale for anything that shouldn't be public.
-- A [landing page demo](https://edgarpichardob.github.io/Demo-Lanfing-Avicultura/) for a poultry business.
 
 Most of my work is in private repos, which is why this profile looks quiet.
 
